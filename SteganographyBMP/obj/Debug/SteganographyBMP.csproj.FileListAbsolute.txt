@@ -1,0 +1,10 @@
+J:\Project\WF-Apps\SteganographyBMP\SteganographyBMP\obj\Debug\SteganographyBMP.csprojResolveAssemblyReference.cache
+J:\Project\WF-Apps\SteganographyBMP\SteganographyBMP\obj\Debug\SteganographyBMP.frmView.resources
+J:\Project\WF-Apps\SteganographyBMP\SteganographyBMP\obj\Debug\SteganographyBMP.Properties.Resources.resources
+J:\Project\WF-Apps\SteganographyBMP\SteganographyBMP\obj\Debug\SteganographyBMP.csproj.GenerateResource.cache
+J:\Project\WF-Apps\SteganographyBMP\SteganographyBMP\obj\Debug\SteganographyBMP.csproj.CoreCompileInputs.cache
+J:\Project\WF-Apps\SteganographyBMP\SteganographyBMP\bin\Debug\SteganographyBMP.exe.config
+J:\Project\WF-Apps\SteganographyBMP\SteganographyBMP\bin\Debug\SteganographyBMP.exe
+J:\Project\WF-Apps\SteganographyBMP\SteganographyBMP\bin\Debug\SteganographyBMP.pdb
+J:\Project\WF-Apps\SteganographyBMP\SteganographyBMP\obj\Debug\SteganographyBMP.exe
+J:\Project\WF-Apps\SteganographyBMP\SteganographyBMP\obj\Debug\SteganographyBMP.pdb
